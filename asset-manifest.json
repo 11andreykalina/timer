@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/11andreykalina/timer/static/js/main.8183eaad.js",
-    "index.html": "/11andreykalina/timer/index.html",
-    "main.8183eaad.js.map": "/11andreykalina/timer/static/js/main.8183eaad.js.map"
+    "main.js": "/timer/static/js/main.f2a5194a.js",
+    "index.html": "/timer/index.html",
+    "main.f2a5194a.js.map": "/timer/static/js/main.f2a5194a.js.map"
   },
   "entrypoints": [
-    "static/js/main.8183eaad.js"
+    "static/js/main.f2a5194a.js"
   ]
 }
